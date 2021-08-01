@@ -9,9 +9,10 @@ Hello, Welcome to my repository
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-961300?style=flat-square&logo=Oracle&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-3776AB?style=flat-square&logo=R&logoColor=white" />
   <img alt="TABLEAU" src="https://img.shields.io/badge/-TABLEAU-blue?style=flat-square&logo=TABLEAU&logoColor=white" />
+  <img alt="AZURE" src="https://img.shields.io/badge/-AZURE-blue?style=flat-square&logo=AZURE&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-Cassandra&logoColor=white" />
 </p>
