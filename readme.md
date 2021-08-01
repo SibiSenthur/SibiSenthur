@@ -13,7 +13,7 @@ Hello, Welcome to my repository
   <img alt="R" src="https://img.shields.io/badge/-R-3776AB?style=flat-square&logo=R&logoColor=white" />
   <img alt="TABLEAU" src="https://img.shields.io/badge/-TABLEAU-blue?style=flat-square&logo=TABLEAU&logoColor=white" />
   <img alt="DATABRICKS" src="https://img.shields.io/badge/-DATABRICKS-red?style=flat-square&logo=DATABRICKS&logoColor=white" />
-  <img alt="SAS" src="https://img.shields.io/badge/-SAS-blue?style=flat-square&logo=SAS&logoColor=white" />
+  <img alt="SPARK" src="https://img.shields.io/badge/-SPARK-blue?style=flat-square&logo=SPARK&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-Cassandra&logoColor=white" />
 </p>
